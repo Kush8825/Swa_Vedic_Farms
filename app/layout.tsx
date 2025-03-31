@@ -30,6 +30,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+          <meta name="google-site-verification" content="JOG83PyY_6w0oxh8Obg-wcQ7jr8gKHsLUKcX4uXHkzc" />
+        </head>
       <body className={`${inter.variable} ${playfair.variable} font-sans`}>
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
           <div className="flex min-h-screen flex-col">
