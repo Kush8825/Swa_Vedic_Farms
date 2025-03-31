@@ -6,25 +6,25 @@ const processes = [
     id: 1,
     title: "Ethical Sourcing",
     description: "Our milk comes from indigenous Gir cows that are raised with love and care in a natural environment.",
-    icon: "/placeholder.svg?height=100&width=100",
+    icon: "/Ethical Sourcing.svg?height=100&width=100",
   },
   {
     id: 2,
     title: "Traditional Churning",
     description: "We use the ancient Bilona method to churn curd and extract butter, preserving all natural nutrients.",
-    icon: "/placeholder.svg?height=100&width=100",
+    icon: "/Traditional.svg?height=100&width=100",
   },
   {
     id: 3,
     title: "Slow Cooking",
     description: "The butter is slowly cooked to create ghee, allowing impurities to separate naturally.",
-    icon: "/placeholder.svg?height=100&width=100",
+    icon: "Slow Cooking.svg?height=100&width=100",
   },
   {
     id: 4,
     title: "Quality Testing",
     description: "Each batch undergoes rigorous quality testing to ensure purity, aroma, and flavor.",
-    icon: "/placeholder.svg?height=100&width=100",
+    icon: "/Quality Testing.svg?height=100&width=100",
   },
 ]
 

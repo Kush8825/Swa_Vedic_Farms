@@ -10,7 +10,7 @@ const products = [
     name: "A2 Bilona Gir Cow Ghee",
     description: "Pure and traditional ghee made from A2 milk using the ancient Bilona method.",
     price: "₹1980/kg",
-    image: "/FullBottle.jpg",
+    image: "/swa-vedic-farms-poster1.jpg",
     badge: "Bestseller",
     sizes: ["250g", "500g", "1kg"],
   },

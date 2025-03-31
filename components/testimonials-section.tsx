@@ -9,7 +9,7 @@ const testimonials = [
     role: "Health Enthusiast",
     content:
       "I've been using Swa Vedic Farms' A2 Ghee for over a year now, and I can truly feel the difference. The aroma and taste are incomparable to any store-bought ghee.",
-    avatar: "/placeholder.svg?height=100&width=100",
+    avatar: "/avatar.svg?height=100&width=100",
     rating: 5,
   },
   {
@@ -18,7 +18,7 @@ const testimonials = [
     role: "Ayurvedic Doctor",
     content:
       "As an Ayurvedic practitioner, I recommend Swa Vedic Farms' ghee to all my patients. The traditional Bilona method they use preserves all the medicinal properties of ghee.",
-    avatar: "/placeholder.svg?height=100&width=100",
+    avatar: "/avatar.svg?height=100&width=100",
     rating: 5,
   },
   {
@@ -27,7 +27,7 @@ const testimonials = [
     role: "Home Chef",
     content:
       "The quality of dairy products from Swa Vedic Farms is exceptional. Their A2 milk and ghee have elevated my cooking to a whole new level. My family can taste the difference!",
-    avatar: "/placeholder.svg?height=100&width=100",
+    avatar: "/avatar.svg?height=100&width=100",
     rating: 5,
   },
 ]
